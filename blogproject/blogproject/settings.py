@@ -26,7 +26,7 @@ SECRET_KEY = '&r(-qy3togv(m6&2aqym3_ltvr#*93tg*euc-z#k=qh%8zzpm$'
 DEBUG = False
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '66.98.125.117']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '66.98.125.117', 'gunicorn']
 
 # Application definition
 
